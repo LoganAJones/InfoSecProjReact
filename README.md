@@ -12,10 +12,14 @@ Our page will be specifically designed not to overwhelm users or to trick them i
 ## Figma Project (design ideas & prototype)
 https://www.figma.com/file/t6ZkxZoja5cXsBAYhDycnW/IS-project?node-id=0%3A1
 
+
+
+## Installation Instructions:
+
 Open Project directory and type:-
 ### `npm install`
 
-This command will download all the dependacy in the project. After that just start the server using following command.
+This command will download all the dependancies in the project. After that just start the server using following command.
 
 In the project directory, you can run:
 
