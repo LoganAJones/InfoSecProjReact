@@ -7,7 +7,7 @@ const Weather = props => {
     <div className="container text-black">
       <div className="Card">
         <h1 className="text-black py-3">{props.cityname}</h1>
-        <h5 className="py-4">S
+        <h5 className="py-4">
           <i className={`wi ${props.weatherIcon} display-1`} />
         </h5>
 
